@@ -1,6 +1,6 @@
 {
     "version": "v1.0",
     "versionCode": 1,
-    "zipUrl": "",
-    "changelog": ""
+    "zipUrl": "https://github.com/SpokuLapsa/ThermalEngineXZ/releases/download/v1.0.0/ThermalEngineFix-v1.0.0.zip",
+    "changelog": "https://raw.githubusercontent.com/SpokuLapsa/ThermalEngineXZ/main/CHANGELOG.md"
 }
