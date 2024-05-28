@@ -4,3 +4,4 @@ version=v1.0
 versionCode=1
 author=krava3250, SpokuLapsa
 description=Fixes the stock CPU trotting setting to a less stringent clock speed limit and higher temperature limit when using the camera on the Xperia XZ.
+updateJson=https://raw.githubusercontent.com/SpokuLapsa/ThermalEngineXZ/main/update.json
