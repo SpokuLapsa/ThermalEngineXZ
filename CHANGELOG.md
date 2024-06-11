@@ -1,3 +1,3 @@
-# v1.0.0
+# v1.0.1
 
-Initial release.
+Fix the hot charging issue with active use and more variable backlighting.
